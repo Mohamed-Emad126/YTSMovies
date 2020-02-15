@@ -7,4 +7,5 @@ In this example i use [YTS](https://yts.mx/api) api to load movies. this app was
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html#sharing)
 - [Picasso](https://square.github.io/picasso/)
- 
+
+![screenshot](https://i.imgur.com/gPBzwNJ.png)
