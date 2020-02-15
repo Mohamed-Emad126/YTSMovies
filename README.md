@@ -6,4 +6,5 @@ In this example i use [YTS](https://yts.mx/api) api to load movies. this app was
 - [Paging Library](https://developer.android.com/topic/libraries/architecture/paging/)
 - [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html#sharing)
+- [Picasso](https://square.github.io/picasso/)
  
